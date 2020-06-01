@@ -10,7 +10,7 @@ Networking platform could be Improbable.com or we build our own in-house technol
 The game can be named Lectron Universe, I'll use universe.lectron.com as the website for it
 
 #Game Development Kit:
-This game will be using Improbable.com platform and GDK for development because they hey us quickly and easily build and host multiplayer games. These games can use multiple server-side game engines across one seamless world to create new kinds of gameplay.
+This game will be using Improbable.com platform and GDK for development because they hey us quickly and easily build and host multiplayer games. These games can use multiple server-side game engines across one seamless world, and functionality is split between multiple servers and those servers compute different functionality across the whole game world, and server zoning, in which the game world is split into several geographical areas and each area has a dedicated server computing all the functionality for it. This helps create new kinds of gameplay
 - https://documentation.improbable.io/gdk-for-unity/docs
 - https://documentation.improbable.io/gdk-for-unreal/docs
 
